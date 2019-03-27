@@ -16,3 +16,4 @@ dist
 .appengine_datastore
 .appengine_storage
 venv/
+.idea/
